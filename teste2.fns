@@ -1,0 +1,6 @@
+; teste2.asm
+Start                            = $8000
+infin                            = $8044
+waitblank                        = $8021
+tilepal                          = $8047
+loadpal                          = $8016
